@@ -21,7 +21,7 @@ public class ArrayTwo {
 			for(int i=0;i<st.length;i++)
 		{
 			System.out.println(st[i]);
-		Test
+		Test two
 		}
 	
 		}
